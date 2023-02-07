@@ -1,0 +1,19 @@
+{
+  "name": "stopwatch",
+  "version": "1.0.0",
+  "description": "A simple stopwatch funtionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "timer"
+  },
+  "keywords": [
+    "timer",
+    "stopwatch"
+  ],
+  "author": "Hillel Buchsbaum",
+  "license": "ISC"
+}
